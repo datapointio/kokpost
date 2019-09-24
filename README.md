@@ -1,5 +1,5 @@
 # kokpost
-HTTP traffic sniffer and replay
+HTTP traffic sniffer and replay. Easily save form data and post it later.
 
 # kokpost
 
@@ -8,7 +8,7 @@ HTTP traffic sniffer and replay
 [kokpost][1] is a HTTP traffic sniffer tool for proxying and recording HTTP and HTTPs
 communications on a LAN.
 
-Hyperfox is capable of forging SSL certificates on the fly if you provide it
+Kokpost is capable of forging SSL certificates on the fly if you provide it
 with a root CA certificate and its corresponding key. If the target machine
 recognizes the root CA as trusted, then HTTPs traffic can be successfully
 decrypted, intercepted and recorded.
